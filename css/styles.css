@@ -588,7 +588,7 @@ input[type='checkbox'] {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: #113448;
+	background: #1e266c;
 }
 
 .spinner {
@@ -1219,12 +1219,12 @@ input[type='checkbox'] {
 }
 
 .slider .card-image {
-	width: 6rem;
-	height: 6rem;
+	width: 7rem;
+	height: 7rem;
 	margin-right: auto;
 	margin-bottom: 0.25rem;
 	margin-left: auto;
-	border-radius: 50%;
+
 }
 
 .slider .card .card-body {
@@ -1715,8 +1715,8 @@ input[type='checkbox'] {
 /*     17. Footer     */
 /**********************/
 .footer {
-	padding-top: 5rem;
-	background-color: #113448;
+	padding-top: 1rem;
+	background-color: #1e266c;
 }
 
 .footer .text-container {
@@ -1741,8 +1741,8 @@ input[type='checkbox'] {
 .copyright {
 	padding-top: 1rem;
 	padding-bottom: 0.5rem;
-	background-color: #113448;
-	text-align: center;
+	background-color: #1e266c;
+	text-align: right;
 }
 
 .copyright p,
